@@ -13,3 +13,5 @@ metastore_db/
 *.log
 gradle.properties
 .DS_Store
+data/**
+TODO.md
